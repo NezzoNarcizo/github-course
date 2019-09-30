@@ -9,3 +9,5 @@ Testando o comando do commit "-am".
 Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido!
 Denovo!
 Link de doa�ao do paypal ----- naoexiste.com
+
+Testando git stash
