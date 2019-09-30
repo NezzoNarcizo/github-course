@@ -11,3 +11,7 @@ Denovo!
 Link de doa√ao do paypal ----- naoexiste.com
 
 Testando git stash
+
+
+
+**WARNIING*** BUG AQUI
